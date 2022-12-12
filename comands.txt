@@ -1,0 +1,4 @@
+1° docker exec -it b15bcf7a68c1 //bin//sh
+2° mongosh
+3° db.auth('root', passwordPrompt())
+  - example
